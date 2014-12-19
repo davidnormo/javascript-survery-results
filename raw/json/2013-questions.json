@@ -1,0 +1,23 @@
+[
+"Timestamp",
+"What type of JavaScript do you write?",
+"Where do you use JavaScript?",
+"How long have you been writing JavaScript?",
+"Do you use a language that compiles to JavaScript?",
+"Which compile-to-JavaScript languages do you use, if any?",
+"What JavaScript stylistic choices do you prefer?","Do you write tests?",
+"Unit Testing: What unit testing libraries do you use?",
+"Unit Testing: Do you run tests on a Continuous Integration system?",
+"Unit Testing: Which Continuous Integration system do you use?",
+"Static Analysis: Do you use any tools for verifying code quality?",
+"How do you handle client-side dependencies?",
+"What's your preferred build script solution?",
+"Front-End Frameworks: What frameworks do you use?",
+"Project Discovery: How do you find reusable code, libraries and tools?",
+"Project Hosting: Preferred hosting for your own JavaScript projects",
+"Community: how do you learn about JavaScript offline?",
+"CDN: Which service do you use to serve third-party libraries?",
+"IE: What's the minimum version of Internet Explorer you target?",
+"ES6: Are you using ES6 features in your code right now?",
+"Other than JavaScript, what are your primary development languages?"
+]

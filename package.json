@@ -1,0 +1,20 @@
+{
+  "name": "jssurvery",
+  "version": "1.0.0",
+  "description": "Script for compiling results from the JSDaily Javascript Survey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsdaily",
+    "javascript",
+    "survey",
+    "results"
+  ],
+  "author": "David Normington",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}

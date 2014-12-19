@@ -1,0 +1,21 @@
+[
+"Timestamp", 
+"What type of JavaScript do you write?", 
+"Environment: What is your preferred interpreter?", 
+"Static Analysis: Do you use any tools for verifying code quality?", 
+"Unit Testing: Do you unit test your JavaScript?", 
+"Unit Testing: What unit testing libraries do you use?", 
+"Minifiers: Which minifier do you use?", 
+"Project Discovery: How do you find reusable code, libraries and tools?", 
+"Project Hosting: Preferred hosting for your own JavaScript projects", 
+"CDN: Which service do you use to serve third-party libraries?", 
+"Debugging: What is your preferred client-side debugger?", 
+"Debugging: What is your preferred server-side debugger?", 
+"Benchmarks: How do you benchmark?", 
+"Other than JavaScript, what are your primary development languages?", 
+"Do you use a language that compiles to JavaScript?", 
+"Which compile-to-JavaScript languages do you use, if any?", 
+"If you don't write Node, are you interested in learning about it?", 
+"Which module loading system do you use, if any?", 
+"What JavaScript stylistic choices do you prefer?"
+]
